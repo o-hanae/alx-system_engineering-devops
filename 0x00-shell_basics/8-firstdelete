@@ -1,2 +1,2 @@
 #!/bin/bash
-rm petty 
+rm petty/tmp/my_first_directory 
